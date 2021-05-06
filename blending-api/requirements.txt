@@ -6,6 +6,6 @@ scipy==1.4.1
 requests==2.23.0
 gunicorn
 opencv_python==4.2.0.34
-Flask_Cors==3.0.8
+Flask_Cors==3.0.9
 torchvision==0.5.0
 Pillow==7.1.2

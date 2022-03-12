@@ -8,4 +8,4 @@ gunicorn
 opencv_python==4.2.0.34
 Flask_Cors==3.0.8
 torchvision==0.5.0
-Pillow==7.1.2
+Pillow==9.0.1
